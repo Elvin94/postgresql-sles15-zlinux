@@ -5,7 +5,8 @@ Install and deploy postgresql database on Linux on z
 ## Prerequisites
  1. Request access to LinuxONE Community Cloud. Follow instructions [here](https://github.com/Elvin94/LinuxONE-OSS-CC)
 
-
+## Hardware requirements
+1. SLES15 SP2
 ### Step 1: Install postgres database server on LinuxONE Community Cloud
    1.1 Import postgres package
    ```sh
